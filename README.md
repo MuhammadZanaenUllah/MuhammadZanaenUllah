@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Zanaen75, a passionate coder exploring the realms of technology and programming. Here's a glimpse into what I'm all about:
+I'm Zanaen, a passionate coder exploring the realms of technology and programming. Here's a glimpse into what I'm all about:
 
 - 👀 I'm deeply interested in the world of coding and software development.
 - 🌱 Currently, I'm delving into the exciting world of Python, eager to sharpen my skills and contribute to its growing ecosystem.
