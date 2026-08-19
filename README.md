@@ -78,7 +78,7 @@
 <br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MuhammadZanaenUllah&theme=tokyonight&hide_border=true" alt="MuhammadZanaenUllah's GitHub Streak" width="97%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadZanaenUllah&theme=tokyonight" alt="MuhammadZanaenUllah's Profile Overview" width="97%" />
 </div>
 
 <br />
